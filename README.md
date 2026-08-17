@@ -1,9 +1,23 @@
 ![Readme 배경](https://github.com/user-attachments/assets/b55711c7-d4b9-4c50-8010-5d3f0767ee06)
+## 목차
+- [프로젝트 개요](https://github.com/jerrytrap/WEB3_4_NDGL_BE#프로젝트-개요)
+- [주요 기능](https://github.com/jerrytrap/WEB3_4_NDGL_BE#주요-기능)
+- [기술 스택](https://github.com/jerrytrap/WEB3_4_NDGL_BE#기술-스택)
+- [시스템 구조](https://github.com/jerrytrap/WEB3_4_NDGL_BE#시스템-구조)
+- [CI/CD 구성도](https://github.com/jerrytrap/WEB3_4_NDGL_BE#cicd-구성도)
+- [ERD](https://github.com/jerrytrap/WEB3_4_NDGL_BE#erd)
+- [API 명세서](https://github.com/jerrytrap/WEB3_4_NDGL_BE#api-명세서)
+- [협업 방식](https://github.com/jerrytrap/WEB3_4_NDGL_BE#협업-방식)
+- [실행 화면](https://github.com/jerrytrap/WEB3_4_NDGL_BE#실행-화면)
+- [로그 관리](https://github.com/jerrytrap/WEB3_4_NDGL_BE#로그-관리)
+- [디렉터리 구조](https://github.com/jerrytrap/WEB3_4_NDGL_BE#디렉터리-구조)
+
+현재 클라우드 사용 기간 만료로 인해 배포 중단된 상태로, 실행 화면은 README의 [[실행화면]](https://github.com/jerrytrap/WEB3_4_NDGL_BE#실행-화면) 항목을 참고해 주시기 바랍니다.
 
 ## 프로젝트 개요
 
-미디어에 나온 유명 장소들을 공유할 수 있는 블로그 플랫폼입니다.   
-백엔드 개발자 5명과 프론트엔드 개발자 1명이 약 4주간 진행했으며, 최우수 프로젝트에 선정되었습니다.
+- 미디어에 나온 유명 장소들을 공유할 수 있는 블로그 플랫폼입니다.   
+- 백엔드 개발자 5명과 프론트엔드 개발자 1명이 약 4주간 진행했으며, **최우수 프로젝트**에 선정되었습니다.
 
 ### 팀원 구성 및 역할
 
@@ -65,10 +79,25 @@
 * * * 
 
 ## API 명세서
+- 전체 기능의 명세는 [[Wiki]](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_NDGL_BE/wiki)에 정리되어 있습니다.
+- 다음 예시와 같이 요청 메소드 및 URL, Request, Response, 상태코드 별 예시 응답 순으로 작성했습니다.   
 
-### [[Wiki]](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_NDGL_BE/wiki)를 참고해주세요!
+<img width="913" height="626" alt="스크린샷 2026-08-17 오후 4 21 56" src="https://github.com/user-attachments/assets/3845c3ae-b948-4a72-b874-c05a61580d5d" />
+<img width="920" height="951" alt="스크린샷 2026-08-17 오후 4 20 37" src="https://github.com/user-attachments/assets/2f36b75a-5d1e-4497-97b5-559efdc34a2d" />
+<img width="730" height="876" alt="스크린샷 2026-08-17 오후 4 19 38" src="https://github.com/user-attachments/assets/7ebdeb7e-3ccc-4cfc-b9e1-eb05cf93a1ab" />
+<img width="735" height="162" alt="스크린샷 2026-08-17 오후 4 19 42" src="https://github.com/user-attachments/assets/fe3660b5-d87c-4c9c-aed8-24a686cabaf3" />
 
 * * * 
+
+## 협업 방식
+- GitHub 칸반 보드 활용
+- 각자 맡은 작업들을 Issue로 생성
+- 앞으로 해야 할 작업, 현재 진행 중인 작업, 완료된 작업으로 나누어 관리
+- 완료된 작업들을 모아 Pull Request를 생성 및 1명 이상 Approve 시 dev 브랜치에 반영 및 배포   
+
+<img width="1212" height="901" alt="image" src="https://github.com/user-attachments/assets/f03ad3e6-e903-4f04-9042-2be808629d99" />
+
+***
 
 ## 실행 화면
 
